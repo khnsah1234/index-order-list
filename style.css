@@ -1,0 +1,10 @@
+body{
+    background-color: brown;
+    color: aquamarine;
+    margin: 50px;
+}
+
+ol, li{
+    background-color: brown;
+    margin: 20px;
+}
